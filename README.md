@@ -1,5 +1,4 @@
-# Priceng
-
+## priceng - This has cards showing price using JSON local object and angular directives. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Development server
